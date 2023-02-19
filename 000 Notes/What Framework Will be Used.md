@@ -22,7 +22,7 @@
 
 ## Cons Native Development
 - App will only work on android
-- ~~Expenses~~ (doesn't matter, because only Android is required)
+- ~~Expenses~~ (doesn't matter, because IOS is not a requi)
 - Slow debugging
 
 ---
@@ -49,6 +49,7 @@
 	- Android, IOS, web, Windows and Linux
 - Compiled into native
 - Less UI development time
+- Rich library of widgets
 - Rich animations
 - Material design
 - Secure
@@ -84,3 +85,4 @@
 9. SDK's: https://matrix.org/sdks/#matrix-org-android-sdk
 10. SDK Dart (flutter): 
 	1. https://pub.dev/packages/matrix
+11. https://docs.flutter.dev/development/ui/widgets
