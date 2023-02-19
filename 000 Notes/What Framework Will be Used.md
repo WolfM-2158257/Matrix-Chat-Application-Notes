@@ -59,17 +59,17 @@
 
 ## Our Requirements
 
-| Requirement (~/10)                     | Native Java | React Native | Flutter |
+| Requirement (+/=/-)                    | Native Java | React Native | Flutter |
 | -------------------------------------- | ----------- | ------------ | ------- |
-| Fast development                       |             |              |         |
-| Matrix Integration                     |             |              |         |
-| Push notifications                     |             |              |         |
-| Hardware access                        |             |              |         |
+| Fast development                       | =           | +            | =       |
+| Matrix Integration                     | +           | =            | -       |
+| Push notifications                     | +           | =            | =        |
+| Hardware access                        | +           |               |         |
 | Fast translation of messages           |             |              |         |
 | Decent performance                     |             |              |         |
 | Fast startup time                      |             |              |         |
 | Good looking UI                        |             |              |         |
-| Cross-platform mobile (extra)                  |             |              |         |
+| Cross-platform mobile (extra)          |             |              |         |
 | Mobile + desktop compatibility (extra) |             |              |         |
 
 # References
@@ -81,3 +81,6 @@
 6. https://inveritasoft.com/blog/flutter-vs-react-native-vs-native-deep-performance-comparison
 7. Flutter push notification package: https://pub.dev/packages/push
 8. RN push notifications: https://sendbird.com/developer/tutorials/implement-react-native-app-push-notifications
+9. SDK's: https://matrix.org/sdks/#matrix-org-android-sdk
+10. SDK Dart (flutter): 
+	1. https://pub.dev/packages/matrix
