@@ -78,11 +78,11 @@
 - Lightweight
 - Minder memory leaks
 - Betere documentatie
-- Matrix SDK is in Kotlin geschreven, de SDK in Java is deprecated.
+- [Matrix SDK](https://github.com/matrix-org/matrix-android-sdk2) is in Kotlin geschreven, de SDK in Java is deprecated.
 - Minder boilerplate code
 
 # Keuze
-Wij kiezen voor Native development met de taal Kotlin. Aangezien cross-platform geen requirement is, wegen de voordelen van native t.o.v. een hybrid framework door:
+Wij kiezen voor Native development met de taal Kotlin. Aangezien cross-platform geen vereiste is, wegen de voordelen van native t.o.v. een hybrid framework door:
 - Performant
 - Snel opstarten
 - Betere integratie met het systeem
@@ -90,9 +90,7 @@ Wij kiezen voor Native development met de taal Kotlin. Aangezien cross-platform 
 - Push-notificaties
 - Stabiel
 - Veilig
-Het enige nadeel aan native is het feit dat je het project voor zowel IOS en android opnieuw moet implementeren.
-
-
+Het enige nadeel aan native is het feit dat je het project voor zowel IOS en android opnieuw moet implementeren. Maar dit is geen vereiste, waardoor er in ons geval geen nadelen zijn bij native.
 
 # References
 1. https://www.toobler.com/blog/react-native-vs-native-app-development
