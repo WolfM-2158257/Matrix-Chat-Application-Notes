@@ -22,7 +22,7 @@
 
 ## Cons Native Development
 - App will only work on android
-- ~~Expenses~~ (doesn't matter, because IOS is not a requi)
+- ~~Expenses~~ (doesn't matter, because IOS is not a requirement)
 - Slow debugging
 
 ---
