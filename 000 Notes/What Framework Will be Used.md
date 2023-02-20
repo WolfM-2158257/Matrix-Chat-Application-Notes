@@ -90,7 +90,7 @@ Wij kiezen voor Native development met de taal Kotlin. Aangezien cross-platform 
 - Push-notificaties
 - Stabiel
 - Veilig
-Het enige nadeel aan native is het feit dat je het project voor zowel IOS en android opnieuw moet implementeren. Maar dit is geen vereiste, waardoor er in ons geval geen nadelen zijn bij native.
+Het enige nadeel aan native is het feit dat je het project voor zowel IOS en android opnieuw zou moeten implementeren. Maar dit is geen vereiste, waardoor er in ons geval geen nadelen zijn bij native.
 
 # References
 1. https://www.toobler.com/blog/react-native-vs-native-app-development
