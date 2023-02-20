@@ -73,6 +73,27 @@
 | Cross-platform mobile (extra)          |             |              |         |
 | Mobile + desktop compatibility (extra) |             |              |         |
 
+# Kotlin vs. java
+## Features Kotlin
+- Lightweight
+- Minder memory leaks
+- Betere documentatie
+- Matrix SDK is in Kotlin geschreven, de SDK in Java is deprecated.
+- Minder boilerplate code
+
+# Keuze
+Wij kiezen voor Native development met de taal Kotlin. Aangezien cross-platform geen requirement is, wegen de voordelen van native t.o.v. een hybrid framework door:
+- Performant
+- Snel opstarten
+- Betere integratie met het systeem
+- Hardware toeganklijkheid
+- Push-notificaties
+- Stabiel
+- Veilig
+Het enige nadeel aan native is het feit dat je het project voor zowel IOS en android opnieuw moet implementeren.
+
+
+
 # References
 1. https://www.toobler.com/blog/react-native-vs-native-app-development
 2. https://aws.amazon.com/compare/the-difference-between-web-apps-native-apps-and-hybrid-apps/
