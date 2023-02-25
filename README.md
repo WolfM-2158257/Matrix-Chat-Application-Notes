@@ -10,6 +10,3 @@ Please use Obsidian to read them.
 	- Run command (`ctrl+p`): `Obsidian Git: Open source control view`
 	- The source control view should be opened in the right panel.
 - `Advanced Tables`
-
-# Themes
-- `Apatheia`
