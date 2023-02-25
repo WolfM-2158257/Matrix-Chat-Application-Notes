@@ -1,6 +1,7 @@
 # Matrix Chat Application Notes
 This repository contains the notes made for the matrix chat application project.
-Please use Obsidian to read them.
+Please use Obsidian to read them. (Open another vault > **Open folder as vault**)
+
 # Settings
 - `Settings > Files & Links:`
 	![[Pasted image 20230219221755.png]]
