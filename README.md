@@ -1,5 +1,6 @@
 # Matrix Chat Application Notes
 This repository contains the notes made for the matrix chat application project.
+Please use Obsidian to read them. (Open another vault > **Open folder as vault**)
 
 # Settings
 - `Settings > Files & Links:`
@@ -10,6 +11,3 @@ This repository contains the notes made for the matrix chat application project.
 	- Run command (`ctrl+p`): `Obsidian Git: Open source control view`
 	- The source control view should be opened in the right panel.
 - `Advanced Tables`
-
-# Themes
-- `Apatheia`

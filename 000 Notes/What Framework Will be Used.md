@@ -2,7 +2,7 @@
 - Native Java
 - Flutter
 - React Native
-- ~~Web App~~ (Not a mobile application, which is a requirement)
+- ~~Web App~~ (Not really a mobile application, which is a requirement)
 
 ---
 
