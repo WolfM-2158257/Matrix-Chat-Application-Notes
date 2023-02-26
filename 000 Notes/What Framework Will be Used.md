@@ -106,3 +106,4 @@ Het enige nadeel aan native is het feit dat je het project voor zowel IOS en and
 10. SDK Dart (flutter): 
 	1. https://pub.dev/packages/matrix
 11. https://docs.flutter.dev/development/ui/widgets
+12. Android API packages: https://developer.android.com/reference/packages
