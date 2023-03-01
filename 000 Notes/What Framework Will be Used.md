@@ -102,7 +102,12 @@ Het enige nadeel aan native is het feit dat je het project voor zowel IOS en and
 6. https://inveritasoft.com/blog/flutter-vs-react-native-vs-native-deep-performance-comparison
 7. Flutter push notification package: https://pub.dev/packages/push
 8. RN push notifications: https://sendbird.com/developer/tutorials/implement-react-native-app-push-notifications
-9. SDK's: https://matrix.org/sdks/#matrix-org-android-sdk
-10. SDK Dart (flutter): 
-	1. https://pub.dev/packages/matrix
-11. https://docs.flutter.dev/development/ui/widgets
+9. SDK's: 
+	1. SDK Java
+		1. https://matrix.org/sdks/#matrix-org-android-sdk
+	2. SDK Dart (flutter): 
+		1. https://pub.dev/packages/matrix
+	3. SDK Kotlin
+		1. https://gitlab.com/trixnity/trixnity
+		2. https://github.com/matrix-org/matrix-android-sdk2
+10. https://docs.flutter.dev/development/ui/widgets
