@@ -3,7 +3,7 @@
 - Argumentatie beter, performance argumenten zijn niet goed genoeg. Ze zijn allemaal goed eigenlijk.
 - Bij alle features duidelijker zetten wat ze precies zijn.
 - Iedere feature zou een tijdschatting moeten hebben van 1 tot 4u.
-- Design constraints, hoelang kan wachtwoord zijn, hoelang kan naam zijn, hoeveel tabs
+- Design constraints, hoelang kan wachtwoord zijn, hoelang kan een naam zijn, hoeveel tabs kunnen gebruikers aanmaken
 - Meeste features zijn specifiek, maar design constraints missen
 - Alineas destructureren
 - Telegram en element vergelijken in een andere sectie.
