@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c64a03239121e550","x":228,"y":-154,"width":250,"height":114,"type":"text","text":"**ViewModel:**\nGives an easy interface to the view to alter model code & update the view"},
+		{"type":"text","text":"**View:**\nDisplay content to screen","id":"a3d76fd846af1ca9","x":-160,"y":-154,"width":250,"height":74},
+		{"id":"e16a9bdc552fc214","x":228,"y":20,"width":250,"height":140,"type":"text","text":"**UseCase:** [[AF-UseCase]]\nWrapper class to divide business logic from ViewModel and Repository/SDK"},
+		{"id":"5d2ad7c004ba8993","x":580,"y":20,"width":250,"height":120,"type":"text","text":"**Repository/SDK:**\nHolds model data and functions to manipulate data"}
+	],
+	"edges":[
+		{"id":"734f589a60395dfc","fromNode":"a3d76fd846af1ca9","fromSide":"right","toNode":"c64a03239121e550","toSide":"left"},
+		{"id":"aea71360b748c105","fromNode":"c64a03239121e550","fromSide":"bottom","toNode":"e16a9bdc552fc214","toSide":"top"},
+		{"id":"bd786a629c0b82bd","fromNode":"e16a9bdc552fc214","fromSide":"right","toNode":"5d2ad7c004ba8993","toSide":"left"}
+	]
+}
