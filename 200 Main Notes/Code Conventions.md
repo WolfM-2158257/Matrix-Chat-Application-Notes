@@ -1,13 +1,13 @@
 # Code convention
 ## Casing
-### Klassen & Functies
+### Klassen
 Pascal Casing -> duidelijk voor modules
 ```kt
 class PascalCasing {
 	fun ThisIsPascalCasing
 }
 ```
-### variabelen
+### variabelen & functies
 in kotlin is het de standaard om private variabelen te definieren met een _{naam}.
 daarnaast is het ook beter om Camel casing te gebruiken.
 ```kt
