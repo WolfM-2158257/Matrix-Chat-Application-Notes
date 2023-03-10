@@ -1,12 +1,12 @@
 ## Scope functions
 - `.let{}`
 ```kotlin
-question3.et{
+question3.let{
 	print(it.questionText)
 	println(it.answer)
 	println(it.difficulty)
 }
-// sames as (`it` replaces `question3`)
+// sames as: (`it` replaces `question3`)
 print(question3.questionText)
 println(question3.answer)
 println(question3.difficulty)
