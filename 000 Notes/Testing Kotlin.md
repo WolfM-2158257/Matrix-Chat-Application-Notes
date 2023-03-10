@@ -1,0 +1,3 @@
+- In the `app>src>test>java>com>example>PACKAGETOTESTHERE` directory
+- Make methods in classes public for testing with the `internal` access modifier, and with the `@VisibleForTesting` annotation
+- 
