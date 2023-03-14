@@ -24,16 +24,16 @@
 - [x] Jaar staat op de tweede pagina (hoofdpagina)
 - [x] access tokens en refresh tokens mogen naar analyse (authenticatie)
 - [ ] Alternatieven bekijken van applicaties en onze erlangs zetten.
-- [ ] Duidelijker uitleggen wat een personal space is bij de analyse.
+- [x] Duidelijker uitleggen wat een personal space is bij de analyse.
 - [ ] Analyse: Historische search, bij de footnote van de feature zetten.
 	- [ ] Hetzelfde voor caching?
 - [ ] Analyse mag iets dieper gaan
 	- [ ] Meer focussen op hoe we de api's gaan integreren in de applicatie
 	- [ ] Hoe we de authorisatie gaan opslaan.
 - [ ] Als we nog een review willen krijgen, dan moeten we die aanvragen vóor volgende week donderdag.
-- [ ] Vergelijk markdown formatting met andere alternatieven.
+- [x] Vergelijk markdown formatting met andere alternatieven.
 - [ ] Zet meer extra features in de planning (beschouw ze minder als extra)
-- [ ] Chat search bij messages zetten in de planning.
+- [x] Chat search bij messages zetten in de planning.
 - [ ] De milestones/planning dient eerder voor iets te hebben om af te vinken.
 - [ ] Eerst high level de applicatie afwerken:
 	- [ ] Week 1: login en account switching 
