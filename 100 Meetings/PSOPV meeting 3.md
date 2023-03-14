@@ -6,10 +6,11 @@
 	- [ ] Iedere feature zou een tijdschatting moeten hebben van 1 tot 4u.
 	- [ ] Design constraints, hoelang kan wachtwoord zijn, hoelang kan een naam zijn, hoeveel tabs kunnen gebruikers aanmaken
 	- [ ] Meeste features zijn specifiek, maar design constraints missen
+	- [ ] Bij features zetten dat de gebruikers van account kunnen wisselen.
 - [x] Alineas destructureren
 - [x] Telegram en element vergelijken in een andere sectie.
 - [x] In de mockups bellen en videobellen weg.
-- [ ] Nummers en letters (a, b, c, d) zetten in mockups om duidelijker te maken over welke schermen het gaat
+- [x] Nummers en letters (a, b, c, d) zetten in mockups om duidelijker te maken over welke schermen het gaat
 - [ ] Meer tekst in de mockups zetten om duidelijker te maken over wat het precies gaat.
 - [x] Obsidian canvas opdelen in meerdere foto's
 - [ ] Jaar staat op de tweede pagina (hoofdpagina)
@@ -23,9 +24,8 @@
 - [ ] Alternatieven bekijken van applicaties en onze erlangs zetten.
 - [ ] Feature ondersteuning vergelijking van element, telegram en onze applicatie
 - [ ] Duidelijker uitleggen wat een personal space is bij de analyse.
-- Analyse: Historische search, bij de footnote van de feature zetten.
+- [ ] Analyse: Historische search, bij de footnote van de feature zetten.
 	- [ ] Hetzelfde voor caching?
-- [ ] Bij features zetten dat de gebruikers van account kunnen wisselen.
 - [ ] Analyse mag iets dieper gaan
 	- [ ] Meer focussen op hoe we de api's gaan integreren in de applicatie
 	- [ ] Hoe we de authorisatie gaan opslaan.
