@@ -14,8 +14,8 @@
 - [x] Meer tekst in de mockups zetten om duidelijker te maken over wat het precies gaat.
 - [x] Obsidian canvas opdelen in meerdere foto's
 - [x] Jaar staat op de tweede pagina (hoofdpagina)
-- [ ] access tokens en refresh tokens mogen naar analyse (authenticatie)
-- [ ] Number list van de features
+- [x] access tokens en refresh tokens mogen naar analyse (authenticatie)
+- [x] Number list van de features
 - [ ] Feature 1. Gebruik van matrix sdk? geen feature
 - [ ] 2 mogelijkheden voor design constraints:
 	- [ ] Design constraints lijsten bij de feature
@@ -23,14 +23,14 @@
 - [ ] Design constraint bericht lengte (groot maar wel nodig)
 - [ ] Alternatieven bekijken van applicaties en onze erlangs zetten.
 - [ ] Feature ondersteuning vergelijking van element, telegram en onze applicatie
-- [ ] Duidelijker uitleggen wat een personal space is bij de analyse.
+- [x] Duidelijker uitleggen wat een personal space is bij de analyse.
 - [ ] Analyse: Historische search, bij de footnote van de feature zetten.
 	- [ ] Hetzelfde voor caching?
 - [ ] Analyse mag iets dieper gaan
 	- [ ] Meer focussen op hoe we de api's gaan integreren in de applicatie
 	- [ ] Hoe we de authorisatie gaan opslaan.
 - [ ] Als we nog een review willen krijgen, dan moeten we die aanvragen vóor volgende week donderdag.
-- [ ] Vergelijk markdown formatting met andere alternatieven.
+- [x] Vergelijk markdown formatting met andere alternatieven.
 - [ ] Zet meer extra features in de planning (beschouw ze minder als extra)
 - [ ] Chat search bij messages zetten in de planning.
 - [ ] De milestones/planning dient eerder voor iets te hebben om af te vinken.
