@@ -1,3 +1,11 @@
+> [!note]
+> The code above uses the `thingUnderTest_TriggerOfTest_ResultOfTest` format to name the test function name:
+	- thingUnderTest = gameViewModel
+	- TriggerOfTest = CorrectWordGuessed
+	- ResultOfTest = ScoreUpdatedAndErrorFlagUnset
+
+
+
 # Local Testing ([[AF-UseCase]])
 - Make methods in classes public for testing with the `internal` access modifier, and with the `@VisibleForTesting` annotation
 - Testing takes place in the `app>src>test` directory
@@ -64,3 +72,24 @@ class TipUITests {
 	}
 }
 ```
+
+# Testing Dependencies
+```kotlin
+plugins {
+    ...
+}
+
+android {
+    ...
+}
+
+dependencies {
+    ...
+    testImplementation 'junit:junit:4.13.2'
+}
+```
+
+# Types of tests
+- Success Test: check for correct successful behavior
+- Error Test: check for correct unsuccessful behavior
+- Boundary Test:  check if everything is set correctly after some behavior
