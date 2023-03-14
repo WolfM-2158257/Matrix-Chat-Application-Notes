@@ -1,5 +1,5 @@
 - [ ] Analyse probleem
-- [ ] Matrix niet uitgelegd
+- [x] Matrix niet uitgelegd
 - [ ] Argumentatie beter, performance argumenten zijn niet goed genoeg. Ze zijn allemaal goed eigenlijk.
 - [ ] Bij alle features duidelijker zetten wat ze precies zijn.
 - [ ] Iedere feature zou een tijdschatting moeten hebben van 1 tot 4u.
