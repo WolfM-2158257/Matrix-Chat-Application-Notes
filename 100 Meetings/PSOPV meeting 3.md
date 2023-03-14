@@ -9,7 +9,7 @@
 - [x] Alineas destructureren
 - [x] Telegram en element vergelijken in een andere sectie.
 - [x] In de mockups bellen en videobellen weg.
-- [ ] Nummers en letters (a, b, c, d) zetten in mockups om duidelijker te maken over welke schermen het gaat
+- [x] Nummers en letters (a, b, c, d) zetten in mockups om duidelijker te maken over welke schermen het gaat
 - [ ] Meer tekst in de mockups zetten om duidelijker te maken over wat het precies gaat.
 - [x] Obsidian canvas opdelen in meerdere foto's
 - [ ] Jaar staat op de tweede pagina (hoofdpagina)
