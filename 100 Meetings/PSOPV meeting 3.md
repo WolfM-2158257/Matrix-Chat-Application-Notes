@@ -2,11 +2,19 @@
 - [x] Matrix niet uitgelegd
 - [ ] Argumentatie beter, performance argumenten zijn niet goed genoeg. Ze zijn allemaal goed eigenlijk.
 - [ ] Features
+	- [ ] Feature van multiple login
 	- [ ] Bij alle features duidelijker zetten wat ze precies zijn.
 	- [ ] Iedere feature zou een tijdschatting moeten hebben van 1 tot 4u.
 	- [ ] Design constraints, hoelang kan wachtwoord zijn, hoelang kan een naam zijn, hoeveel tabs kunnen gebruikers aanmaken
 	- [ ] Meeste features zijn specifiek, maar design constraints missen
 	- [ ] Bij features zetten dat de gebruikers van account kunnen wisselen.
+	- [ ] 2 mogelijkheden voor design constraints:
+		- [ ] Design constraints lijsten bij de feature
+		- [ ] Of design constraints in een andere sectie en referenties bij de features.
+	- [ ] Design constraint bericht lengte (groot maar wel nodig)
+	- [ ] Number list van de features
+	- [ ] Feature 1. Gebruik van matrix sdk? geen feature
+- [ ] Feature ondersteuning vergelijking van element, telegram en onze applicatie
 - [x] Alineas destructureren
 - [x] Telegram en element vergelijken in een andere sectie.
 - [x] In de mockups bellen en videobellen weg.
