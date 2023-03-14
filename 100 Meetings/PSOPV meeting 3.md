@@ -13,7 +13,7 @@
 - [x] Nummers en letters (a, b, c, d) zetten in mockups om duidelijker te maken over welke schermen het gaat
 - [ ] Meer tekst in de mockups zetten om duidelijker te maken over wat het precies gaat.
 - [x] Obsidian canvas opdelen in meerdere foto's
-- [ ] Jaar staat op de tweede pagina (hoofdpagina)
+- [x] Jaar staat op de tweede pagina (hoofdpagina)
 - [ ] access tokens en refresh tokens mogen naar analyse (authenticatie)
 - [ ] Number list van de features
 - [ ] Feature 1. Gebruik van matrix sdk? geen feature

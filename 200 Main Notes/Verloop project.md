@@ -1,9 +1,7 @@
 # Verloop projects
-
 ## Opstart project
 - Code conventions bespreken -> (Clean Code Boek)
 - Best practises (Kotlin, Compose, MVVM, App Architecture)
-- 
 ## Tijdens project
 - Tijdens het project een dag uitkiezen en samenkomen voor code review/refactor en analyse van performance.
 - Github
