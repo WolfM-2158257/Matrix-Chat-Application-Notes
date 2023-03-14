@@ -22,7 +22,7 @@
 - [x] Meer tekst in de mockups zetten om duidelijker te maken over wat het precies gaat.
 - [x] Obsidian canvas opdelen in meerdere foto's
 - [x] Jaar staat op de tweede pagina (hoofdpagina)
-- [ ] access tokens en refresh tokens mogen naar analyse (authenticatie)
+- [x] access tokens en refresh tokens mogen naar analyse (authenticatie)
 - [ ] Alternatieven bekijken van applicaties en onze erlangs zetten.
 - [ ] Duidelijker uitleggen wat een personal space is bij de analyse.
 - [ ] Analyse: Historische search, bij de footnote van de feature zetten.
