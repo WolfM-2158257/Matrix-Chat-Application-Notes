@@ -14,7 +14,7 @@
 	- [x] Design constraint bericht lengte (groot maar wel nodig)
 	- [x] Number list van de features
 	- [x] Feature 1. Gebruik van matrix sdk? geen feature
-- [ ] Feature ondersteuning vergelijking van element, telegram en onze applicatie
+- [x] Feature ondersteuning vergelijking van element, telegram en onze applicatie
 - [x] Alineas destructureren
 - [x] Telegram en element vergelijken in een andere sectie.
 - [x] In de mockups bellen en videobellen weg.
