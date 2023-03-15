@@ -23,7 +23,7 @@
 - [x] Obsidian canvas opdelen in meerdere foto's
 - [x] Jaar staat op de tweede pagina (hoofdpagina)
 - [x] access tokens en refresh tokens mogen naar analyse (authenticatie)
-- [ ] Alternatieven bekijken van applicaties en onze erlangs zetten.
+- [x] Alternatieven bekijken van applicaties en onze erlangs zetten.
 - [x] Duidelijker uitleggen wat een personal space is bij de analyse.
 - [ ] Analyse: Historische search, bij de footnote van de feature zetten.
 	- [ ] Hetzelfde voor caching?
