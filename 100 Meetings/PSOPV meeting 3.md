@@ -1,6 +1,6 @@
 - [ ] Analyse probleem
 - [x] Matrix niet uitgelegd
-- [ ] Argumentatie beter, performance argumenten zijn niet goed genoeg. Ze zijn allemaal goed eigenlijk(?).
+- [x] Argumentatie beter, performance argumenten zijn niet goed genoeg. Ze zijn allemaal goed eigenlijk(?).
 - [x] Features
 	- [x] Feature van multiple login
 	- [x] Bij alle features duidelijker zetten wat ze precies zijn.
