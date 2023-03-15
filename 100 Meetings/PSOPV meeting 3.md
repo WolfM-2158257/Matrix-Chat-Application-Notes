@@ -3,15 +3,15 @@
 - [ ] Argumentatie beter, performance argumenten zijn niet goed genoeg. Ze zijn allemaal goed eigenlijk.
 - [ ] Features
 	- [x] Feature van multiple login
-	- [ ] Bij alle features duidelijker zetten wat ze precies zijn.
-	- [ ] Iedere feature zou een tijdschatting moeten hebben van 1 tot 4u.
-	- [ ] Design constraints, hoelang kan wachtwoord zijn, hoelang kan een naam zijn, hoeveel tabs kunnen gebruikers aanmaken
-	- [ ] Meeste features zijn specifiek, maar design constraints missen
-	- [ ] Bij features zetten dat de gebruikers van account kunnen wisselen.
-	- [ ] 2 mogelijkheden voor design constraints:
-		- [ ] Design constraints lijsten bij de feature
-		- [ ] Of design constraints in een andere sectie en referenties bij de features.
-	- [ ] Design constraint bericht lengte (groot maar wel nodig)
+	- [x] Bij alle features duidelijker zetten wat ze precies zijn.
+	- [x] Iedere feature zou een tijdschatting moeten hebben van 1 tot 4u.
+	- [x] Design constraints, hoelang kan wachtwoord zijn, hoelang kan een naam zijn, hoeveel tabs kunnen gebruikers aanmaken
+	- [x] Meeste features zijn specifiek, maar design constraints missen
+	- [x] Bij features zetten dat de gebruikers van account kunnen wisselen.
+	- [x] 2 mogelijkheden voor design constraints:
+		- [x] Design constraints lijsten bij de feature
+		- [ ] ~~Of design constraints in een andere sectie en referenties bij de features.~~
+	- [x] Design constraint bericht lengte (groot maar wel nodig)
 	- [ ] Number list van de features
 	- [ ] Feature 1. Gebruik van matrix sdk? geen feature
 - [ ] Feature ondersteuning vergelijking van element, telegram en onze applicatie
