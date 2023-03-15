@@ -32,10 +32,10 @@
 	- [ ] Hoe we de authorisatie gaan opslaan.
 - [ ] Als we nog een review willen krijgen, dan moeten we die aanvragen vóor volgende week donderdag.
 - [x] Vergelijk markdown formatting met andere alternatieven.
-- [ ] Zet meer extra features in de planning (beschouw ze minder als extra)
+- [x] Zet meer extra features in de planning (beschouw ze minder als extra)
 - [x] Chat search bij messages zetten in de planning.
-- [ ] De milestones/planning dient eerder voor iets te hebben om af te vinken.
-- [ ] Eerst high level de applicatie afwerken:
-	- [ ] Week 1: login en account switching 
-	- [ ] Week 2: Chat rooms overview
-	- [ ] Week 3: Messages
+- [x] De milestones/planning dient eerder voor iets te hebben om af te vinken.
+- [x] Eerst high level de applicatie afwerken:
+	- [x] Week 1: login en account switching 
+	- [x] Week 2: Chat rooms overview
+	- [x] Week 3: Messages
